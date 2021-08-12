@@ -1,0 +1,141 @@
+.head{
+    background-color:red;
+    width:100%;
+    height:100px;
+    box-shadow:2px 2px 5px black;
+}
+.logo{
+    width:60px;
+    height:60px;
+    background-color:white;
+   margin-left:40px;
+   position:relative;
+   top:30px;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   border-radius:50%;
+   
+   color:red;
+   transition:all 2s ease-in-out;
+   transition-duration: infinite;
+}
+.logo:hover{
+    transform:rotate(3600deg)
+}
+.login{
+    float:right;
+    margin-right:50px;
+    position:relative;
+    top:-30px;
+    }
+.login a{
+    text-decoration:none;
+    font-size:20px;
+    margin-left:20px;
+}
+.login a:hover{
+    border:1px solid rgba(0, 0, 0, 0.226);
+    color:white;
+    padding:6px;
+    text-decoration:none;
+}
+.middle h1{
+    margin-left:60px;
+    margin-top:40px;
+ 
+    color:rgba(137, 43, 226, 0.678)
+}
+.rad{
+   padding:10px;
+   margin-left:-10px;
+}
+.itemscost{
+    width:240px;
+    height:700px;
+    box-shadow:7px 7px 10px 4px silver;
+    margin-left:60px;
+    margin-top:30px;
+   float:left;
+}
+.itemscost h3,p{
+    margin-left:20px;
+    
+    
+}
+.radio p{
+    margin-left:2px;
+    font-weight: bold;
+}
+.radio{
+    padding:5px;
+    margin-top:4px;
+    line-height:10px;
+    margin-left:1px;
+}
+span{
+    margin-left:2px;
+}
+
+input{
+    border:1px solid grey;
+
+}
+.check{
+    margin-left:15px;
+    float:left
+    
+}
+.check .chack1{
+    padding:5px;
+
+}
+#main{
+    width:50%;
+    height:400px;
+   
+    float:left;
+    margin-left:60px;
+    margin-top:40px;
+  
+}
+.listfood{
+    box-shadow:2px 2px 5px  black;
+   
+    
+    
+    float:inline-block;
+  margin-left:300px;
+
+}
+
+
+.listfood .card{
+    margin-top:200px;
+    line-height:20px;
+}
+.listfood img{
+    width:100px;
+    height:35%;
+    margin-top:30px;
+    margin-left:30px;
+    border-radius:25px;
+    float:left;
+    
+}
+.listfood{
+    border-radius:10px;
+}
+hr{
+    width:90%
+}
+
+
+
+
+
+
+.listfood:hover{
+    transform:scale(1.08);
+   
+}

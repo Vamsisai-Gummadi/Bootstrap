@@ -1,0 +1,50 @@
+[{
+    "id":1,
+    "category":"mobile"
+},
+{
+    "id":2,
+    "category":"pants"
+
+},
+{
+    "id":3,
+    "category":"shirts"
+
+},
+{
+    "id":4,
+    "category":"babyproducts"
+},
+{
+    "id":5,
+    "category":"beauty"
+},
+{
+    "id":6,
+    "category":"mobile"
+
+},
+{
+    "id":7,
+    "category":"books"
+},
+{
+    "id":8,
+    "category":"kitchen"
+},{
+    "id":9,
+    "category":"footwear"
+},
+{
+    "id":10,
+    "category":"bags"
+},
+{
+    "id":11,
+    "category":"furnitures"
+}
+
+
+
+]
